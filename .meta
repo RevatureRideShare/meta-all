@@ -1,6 +1,8 @@
 {
   "projects": {
     "meta-ui": "https://github.com/RevatureRideShare/meta-ui.git",
-    "meta-backend": "https://github.com/RevatureRideShare/meta-backend.git"
+    "meta-backend": "https://github.com/RevatureRideShare/meta-backend.git",
+    "meta-backend\\meta-infrastructure": "https://github.com/RevatureRideShare/meta-infrastrucure.git",
+    "meta-backend\\meta-services": "https://github.com/RevatureRideShare/meta-services.git"
   }
 }
